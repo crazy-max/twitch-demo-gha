@@ -16,7 +16,7 @@ ___
 
 ## Slides
 
-Slides available on GitHub Pages: https://crazy-max.github.io/twitch-demo-gha/
+Slides  available on GitHub Pages: https://crazy-max.github.io/twitch-demo-gha/
 
 ### Render
 
