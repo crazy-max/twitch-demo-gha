@@ -1,6 +1,6 @@
 # GitHub Actions and Docker
 
-Demo of GitHub Actions and Docker @ Docker Engineering Twitch
+Demo of GitHub Actions and Docker @ [Docker Engineering Twitch](https://www.twitch.tv/docker_engineering)
 
 ___
 
@@ -66,7 +66,7 @@ docker buildx bake artifact-all
 
 ### GitHub Actions
 
-GitHub Action workflow available in [.github/workflows/build.yml](.github/workflows/build.yml)
+GitHub Action workflows available in [.github/workflows](.github/workflows)
 
 * Using [docker/bake-action](https://github.com/docker/bake-action) to:
   * Create artifacts for [GitHub Releases](https://github.com/crazy-max/twitch-demo-gha/releases)
